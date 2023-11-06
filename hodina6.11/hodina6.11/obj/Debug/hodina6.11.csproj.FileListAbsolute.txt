@@ -1,0 +1,10 @@
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\bin\Debug\hodina6.11.exe.config
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\bin\Debug\hodina6.11.exe
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\bin\Debug\hodina6.11.pdb
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6.11.csproj.AssemblyReference.cache
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6._11.Form1.resources
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6._11.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6.11.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6.11.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6.11.exe
+G:\Programování\4.ROČNÍK\ČISELNE SOUSTAVY\hodina6.11\hodina6.11\obj\Debug\hodina6.11.pdb
